@@ -1,0 +1,2 @@
+- 👋 Oi, eu sou @JEmerson23
+- estou interessado em aprender e ajudar 
