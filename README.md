@@ -1,13 +1,13 @@
-#Quem sou:
+# Quem sou:
 
 José Emerson
 
-##Aprendendo 
+## Aprendendo 
 
  Web Front-end
  Git & Github
 
-#tecnologia que uso atualmente
+# tecnologia que uso atualmente
 
 * Javascript
 * HTML
