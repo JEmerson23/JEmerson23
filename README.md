@@ -1,6 +1,6 @@
 # Quem sou:
 
-_José Emerson_
+**José Emerson**
 
 ## Aprendendo 
 
