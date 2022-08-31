@@ -2,13 +2,13 @@
 
 **José Emerson**
 
-## Aprendendo 
-
- Web Front-end  
- Git & Github  
-
-# tecnologia que uso atualmente
+## tecnologia que uso atualmente
 
 * Javascript
 * HTML
 * CSS
+
+### Aprendendo 
+
+ Web Front-end  
+ Git & Github 
