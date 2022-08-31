@@ -1,2 +1,14 @@
-- 👋 Oi, eu sou @JEmerson23
-- estou interessado em aprender e ajudar 
+#Quem sou:
+
+José Emerson
+
+##Aprendendo 
+
+ Web Front-end
+ Git & Github
+
+#tecnologia que uso atualmente
+
+* Javascript
+* HTML
+* CSS
