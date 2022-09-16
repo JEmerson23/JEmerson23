@@ -1,6 +1,7 @@
 # Quem sou:
 
-**José Emerson**
+[**José Emerson**](https://jemerson23.github.io/myPortfolio)
+
 
 ## especialidades
 
@@ -11,8 +12,9 @@
 * Javascript
 * HTML
 * CSS
+* Git & Github
 
 ### Aprendendo 
-
  Web Front-end  
- Git & Github 
+ Git & Github
+ react 
