@@ -15,6 +15,6 @@
 * Git & Github
 
 ### Aprendendo 
- web Front-end
- react js
+ web Front-end  
+ react js  
  phaser js
