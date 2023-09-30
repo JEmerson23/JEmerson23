@@ -1,20 +1,12 @@
-# Quem sou:
-
-[**José Emerson**](https://jemerson23.github.io/myPortfolio)
-
-
-## especialidades
+## especialidade
 
 * Javascript
 
 ## tecnologia que uso atualmente
 
-* Javascript
-* HTML
-* CSS
+* front-end & back-end
 * Git & Github
 
 ### Aprendendo 
- web Front-end  
- react js  
- phaser js
+ * web Front-end  
+ * nodejs
