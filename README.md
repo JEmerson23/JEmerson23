@@ -1,12 +1,15 @@
 ## especialidade
 
-* Javascript
+* Javascript front-end
 
 ## tecnologia que uso atualmente
 
-* front-end & back-end
-* Git & Github
+* javascript
+* html e css
+* git e github
 
 ### Aprendendo 
- * web Front-end  
+ * javacript
+ * html e css 
  * nodejs
+ * python
