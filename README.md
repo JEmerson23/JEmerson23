@@ -12,4 +12,3 @@
  * javacript
  * html e css 
  * nodejs
- * python
